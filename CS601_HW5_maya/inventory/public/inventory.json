@@ -1,0 +1,39 @@
+[
+    {
+      "sku": "A001",
+      "name": "Lip Gloss",
+      "qty": 50,
+      "price": 20.00,
+      "image": "/images/lip-gloss.jpg"
+
+    },
+    {
+      "sku": "B002",
+      "name": "Blush",
+      "qty": 100,
+      "price": 25.00,
+      "image": "/images/blush.png"
+    },
+    {
+      "sku": "C003",
+      "name": "Concealer",
+      "qty": 75,
+      "price": 30.00,
+      "image": "/images/concealer.jpg"
+    },
+    {
+      "sku": "D004",
+      "name": "Primer",
+      "qty": 20,
+      "price": 20.00,
+      "image": "/images/primer.jpg"
+    },
+    {
+      "sku": "E005",
+      "name": "Eyeliner",
+      "qty": 30,
+      "price": 15.00,
+      "image": "/images/eyeliner.jpg"
+    }
+  ]
+  
